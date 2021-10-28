@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '3D相机使用指南'
+copyright = '2021, Matt'
+author = 'Matt'
 
 release = '0.1'
 version = '0.1.0'
