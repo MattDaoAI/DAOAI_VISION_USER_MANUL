@@ -6,7 +6,7 @@
 .. figure:: /基本功能/images/2D预览.png
     :align: center
 
-
+|
 **(RGB亮点)** 如果存在2D相机预览，你可以点击下图所示的颜色选择器图标，以便在图像预览中找到光标所选像素的RGB值。这些值将在顶部栏中更新，并显示在左下角。
 
 .. figure:: /基本功能/images/RGB值.png

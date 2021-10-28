@@ -10,7 +10,7 @@
 .. figure:: /基本功能/images/相机链接.png
     :align: center
 
-
+|
 断开相机
 ~~~~~~~~
 
